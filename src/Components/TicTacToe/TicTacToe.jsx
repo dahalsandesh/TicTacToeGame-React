@@ -105,6 +105,9 @@ const TicTacToe = () => {
                 </div>
             </div>
             <button className='reset-btn' onClick={() => reset()}>Reset</button>
+            <div className='footer'>
+            Made with ❤️ by <a href='https://dahalsandesh.com.np' target='_blank' rel='noopener noreferrer'>Dahal Sandesh</a>
+        </div> 
         </div>
     );
 };

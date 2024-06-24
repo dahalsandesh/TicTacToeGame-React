@@ -100,3 +100,19 @@
         padding-left: 12px;
     }
 }
+
+.footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #c6c5c5;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #679d24;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
